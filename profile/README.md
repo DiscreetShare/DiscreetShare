@@ -1,5 +1,5 @@
 <p align="center">  
-    <img src="https://cdn.mycelium-ai.com/image.png" height="200"/>  
+    ![image](https://github.com/DiscreetShare/.github/assets/67888122/245e032a-b54b-4ec9-9b08-69604bbd757e)
 </p>  
 <br>   
   
