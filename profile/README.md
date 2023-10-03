@@ -1,9 +1,12 @@
 <p align="center">  
     <img src="https://cdn.mycelium-ai.com/image.png" height="200"/>  
-  </p>  
-  <br>   
+</p>  
+<br>   
   
-  <p align="center">  
+# Welcome to DiscreetShare
+
+<p align="center">  
     <em>  
-      Hello, We're DiscreetShare a <b>Organization</b> that gives free encrypted and anonymous file hosting</a>. <br>  
-      
+        Hello, We're DiscreetShare, an <b>Organization</b> that provides free encrypted and anonymous file hosting.  
+    </em>  
+</p>  
